@@ -11,3 +11,9 @@ Requirements for this exercise:
 
 Libraries needed: 
 – requests_oauthlib : This library is available for download through pip3, which you should have if you've worked with Python. 
+
+Prior to running the code, set your API Key and API Key Secret as environmental variavles in the following format:
+in your terminal please set your environment variables by running the following lines of code.
+$ export 'CONSUMER_KEY'='<your_consumer_key>'
+$ export 'CONSUMER_SECRET'='<your_consumer_secret>'
+
