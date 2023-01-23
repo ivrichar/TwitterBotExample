@@ -1,4 +1,4 @@
-# CEWiT AI Twitter Bot Example
+# CeWiT AI Twitter Bot Example
 Example code given for the CeWiT Ethical AI Bot Workshop
 
 
