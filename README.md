@@ -2,7 +2,7 @@
 Example code given for the CeWiT Ethical AI Bot Workshop
 
 
-The Python code for this repository was taken from the Twitter example documents and altered slightly.
+The Python code for this repository was taken from the Twitter example code and altered slightly. This original code can be found at https://github.com/twitterdev/Twitter-API-v2-sample-code/blob/main/Manage-Tweets/create_tweet.py
 
 ## Requirements for this exercise:
 - A Twitter Developers account, with the associated API Key and API Key Secret, Access Token and Access Token Secret, and Bearer Token. The "user authentication" must be set up with OAuth 1.0a Authentication permissions for the app to to read, write, and send DMs. This can be accessed within the Developer Portal Dashboard at https://developer.twitter.com/en/portal/dashboard. From here, click on the settings icon for this project app. From the app settings, scroll down to the **User Authentication** and click on the Edit icon. From here, change the app permissions so that the app has permissions to read, write, and send DMs. Completing this step also requires you to add a redirect URL and a website URL, but I had no issues putting https://www.google.com for both of these answers. If you have a perosnal website, props to you, and feel free to add it as the website URL!
