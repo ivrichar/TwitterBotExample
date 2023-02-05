@@ -8,7 +8,7 @@ consumer_secret = os.environ.get("CONSUMER_SECRET")
 # Be sure to add replace the "Hello world!" with the text you wish to Tweet. 
 # You can also add parameters to post polls, quote Tweets, Tweet with reply settings, and Tweet to Super Followers in addition to other features.
 # You would do this by modifying the json payload
-# further information can be found here: TODOTODOTODO
+# further information can be found here: https://developer.twitter.com/en/docs/twitter-api
 payload = {"text": "Hello world!"}
 
 # Get request token
